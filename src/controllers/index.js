@@ -1,0 +1,1 @@
+module.exports.playerController = require('./player.controller');
